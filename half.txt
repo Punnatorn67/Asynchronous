@@ -1,0 +1,3 @@
+path : Ri+ Ro+ Ao+ Ri- Ao-
+path : Ro+ Ao+ Ri- Ao- Ai-
+path : Ro+ Ao+ Ai+ Ro- Ao- Ai-

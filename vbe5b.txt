@@ -1,0 +1,10 @@
+path : La+ Zr+ Za+ Zr- Za- Lr+
+path : La+ Zr+ Za+ Zr- Dr- Da- Lr+
+path : La+ Zr+ Lr- La- Zr- Za- Lr+
+path : La+ Zr+ Lr- La- Zr- Dr- Da- Lr+
+path : La+ Lr- La- Zr- Za- Lr+
+path : La+ Lr- La- Zr- Dr- Da- Lr+
+path : La+ Dr+ Da+ Zr- Za- Lr+
+path : La+ Dr+ Da+ Zr- Dr- Da- Lr+
+path : La+ Dr+ Lr- La- Zr- Za- Lr+
+path : La+ Dr+ Lr- La- Zr- Dr- Da- Lr+
