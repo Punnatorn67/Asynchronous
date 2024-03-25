@@ -1,20 +1,19 @@
-# Asynchronous
-## libraly
--import sys \n
--from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QTextEdit, QPushButton, QLabel, QDialog, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene 
--from PyQt6.QtWidgets import QLabel, QVBoxLayout 
--from PyQt6.QtSvgWidgets import QSvgWidget 
--from PyQt6.QtGui import QIcon, QImage, QPainter, QPixmap 
--from PyQt6.QtCore import QSize, Qt, QRectF -
-from PyQt6.QtSvg import QSvgGenerator 
--from PyQt6.QtPrintSupport import QPrinter 
--import textwrap 
--import os 
--import graphviz 
--from schemdraw import logic , Drawing 
--import schemdraw 
--import schemdraw.elements as elm 
--from schemdraw.segments import * 
--from schemdraw import Drawing 
--from schemdraw import logic 
--from PyQt6.QtWidgets import QMessageBox
+# libraries
+-import sys <br />
+-from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QTextEdit, QPushButton, QLabel, QDialog, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene <br />
+-from PyQt6.QtWidgets import QLabel, QVBoxLayout <br />
+-from PyQt6.QtSvgWidgets import QSvgWidget <br />
+-from PyQt6.QtGui import QIcon, QImage, QPainter, QPixmap <br />
+-from PyQt6.QtCore import QSize, Qt, QRectF <br />
+-from PyQt6.QtSvg import QSvgGenerator <br />
+-from PyQt6.QtPrintSupport import QPrinter <br />
+-import textwrap <br />
+-import os <br />
+-import graphviz <br />
+-from schemdraw import logic , Drawing <br />
+-import schemdraw <br />
+-import schemdraw.elements as elm <br />
+-from schemdraw.segments import * <br />
+-from schemdraw import Drawing <br />
+-from schemdraw import logic <br />
+-from PyQt6.QtWidgets import QMessageBox <br />
