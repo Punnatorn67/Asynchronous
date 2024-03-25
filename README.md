@@ -1,6 +1,6 @@
 # Asynchronous
 ## libraly
--import sys 
+-import sys \n
 -from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QTextEdit, QPushButton, QLabel, QDialog, QMessageBox, QFileDialog, QGraphicsView, QGraphicsScene 
 -from PyQt6.QtWidgets import QLabel, QVBoxLayout 
 -from PyQt6.QtSvgWidgets import QSvgWidget 
